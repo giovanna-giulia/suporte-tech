@@ -1,23 +1,30 @@
-# 🛠️ Portfólio - Giovanna | Suporte Tech
+# Olá, eu sou a Giovanna Giulia! 👋
 
-### Sobre mim
-Profissional de Suporte em transição para TI. Tenho experiência em resolver problemas, atender clientes e documentar soluções.
+### Líder de Suporte | Analista de Suporte Técnico N1 | Help Desk | Operações 100% Remoto | Microsoft 365 | SLA | Excel | Power BI 
 
-### O que eu faço bem (do suporte):
-- Troubleshooting e resolução de chamados
-- Comunicação clara com cliente
-- Organização e documentação
+Tenho **7 anos de experiência** em atendimento e suporte técnico, com evolução de **Help Desk N1 até Líder de Suporte** na mesma empresa. Nesse período, desenvolvi comunicação clara e empática, foco em resolução de problemas e compromisso com a excelência no atendimento.
 
-### O que estou estudando na DIO:
-- Git e GitHub (esse portfólio!)
-- Lógica de Programação
-- Fundamentos de Cloud / Redes
-- Inglês Técnico - English4Tech
+Atualmente no **4º período de Tecnólogo em Redes de Computadores**, complementando minha experiência prática em suporte e infraestrutura.
 
-### Meus próximos projetos aqui:
-- [ ] Guia de troubleshooting para problemas comuns
-- [ ] Checklist de atendimento N1
-- [ ] Documentação de um processo de suporte
+### 💼 Experiência
+- **7 anos** em Suporte / Help Desk / Liderança de equipe
+- Troubleshooting, gestão de chamados e liderança de time
+- Comunicação clara, organização e foco no cliente
 
----
-📫 Vamos nos conectar? linkedin.com/in/giovanna-giulia-almeida
+### 🎓 Formação
+- Tecnólogo em Redes de Computadores - 4º Período
+- DIO Global + Formações em Cloud e Lógica de Programação
+- English4Tech
+
+### 🏠 Estrutura Home Office
+- Escritório próprio e silencioso
+- Equipamentos: Desktop + Notebook, Headset e Webcam
+- Internet: Fibra ótica + Backup 4G
+- Total disponibilidade de horários
+
+### 🛠️ Skills
+`Suporte Técnico` `Help Desk N1/N2` `Liderança de Equipe` `Troubleshooting` `Atendimento ao Cliente` `Redes de Computadores` `Git & GitHub`
+
+### 📫 Vamos nos conectar?
+🌐 **Portfólio:** https://giovanna-giulia-almeida.netlify.app/
+💼 **LinkedIn:** linkedin.com/in/giovanna-giulia-almeida
